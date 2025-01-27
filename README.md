@@ -35,7 +35,7 @@ These are some of the major technologies that I am Learning or using in the past
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/subhadipmaity191/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Subhadip119)|<a href="https://www.facebook.com/subhadip.maity.5074644/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="https://www.instagram.com/subhadip_maity_191/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>
+<a href="https://www.linkedin.com/in/subhadipmaity191/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|[![X](https://img.shields.io/badge/X-black.svg?&logoColor=white)](https://x.com/@Subhadip119)|<a href="https://www.facebook.com/subhadip.maity.5074644/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="https://www.instagram.com/subhadip_maity_191/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>
 |--|--|--|--|
 
 -----
