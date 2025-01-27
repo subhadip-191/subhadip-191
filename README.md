@@ -39,6 +39,6 @@ These are some of the major technologies that I am Learning or using in the past
 |--|--|--|--|
 
 -----
-Credits: [Subhadip Maityl](https://github.com/subhadip-191)
+Credits: [Subhadip Maity](https://github.com/subhadip-191)
 
 Last Edited on: 27/01/2025
